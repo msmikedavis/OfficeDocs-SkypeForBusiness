@@ -1,3 +1,4 @@
+
 ---
 title: "PSTN minute pools report"
 ms.author: tonysmit
@@ -20,6 +21,8 @@ description: "The new Skype for Business Admin Center Reports area shows you cal
 ---
 
 # PSTN minute pools report
+
+Note: This report is currently in preview and will be generally available soon.
 
 The new Skype for Business Admin Center **Reports** area shows you calling and audio conferencing activity in your organization. It enables you to drill into reports to give you more granular insight about the activities of each user. For example, you can use the **Skype for Business PSTN minute pools** report to see the number of minutes consumed during the current month within your organization.
   
@@ -54,6 +57,7 @@ This is what the report looks like.
      * MCOPSTN1 - Domestic Calling Plan (3000-minute US/1200-minute EU plans
      * MCOPSTN2 - International Calling Plan
      * MCOPSTN5 - Domestic Calling Plan (120-minute calling plan)
+     * MCOPSTN6 - Domestic Calling Plan (240-minute calling plan)
      * MCOMEETADD - Audio Conferencing
      * MCOMEETACPEA - Pay Per Minute Audio Conferencing
 *    **Capability Description** is a description of the license type utilized for the call.
